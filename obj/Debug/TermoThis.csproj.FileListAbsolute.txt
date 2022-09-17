@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\TermoThis\bin\Debug\TermoThis.exe.config
+C:\WorkspaceLediane\TermoThis\bin\Debug\TermoThis.exe
+C:\WorkspaceLediane\TermoThis\bin\Debug\TermoThis.pdb
+C:\WorkspaceLediane\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\TermoThis\obj\Debug\TermoThis.exe
+C:\WorkspaceLediane\TermoThis\obj\Debug\TermoThis.pdb
